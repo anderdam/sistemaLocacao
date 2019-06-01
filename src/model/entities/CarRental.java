@@ -20,10 +20,6 @@ public class CarRental {
 		this.vehicle = vehicle;
 	}
 
-
-
-
-
 	public Date getStart() {
 		return start;
 	}
